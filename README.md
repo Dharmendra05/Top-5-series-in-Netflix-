@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 
 ![markDownlog](./public/card1.png);
-![markDownlog](./public/card2.png);
+![markDownlog](./public/Card2.png);
 
 
 
